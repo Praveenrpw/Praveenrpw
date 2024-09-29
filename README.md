@@ -8,7 +8,7 @@ Former Implementation Analyst @ Jidoka Technologies
 - 🤔 I’m looking for job opportunities
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> <!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev)--> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/praveen-raja-p-641a18207)
+<br /> <!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]()--> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/praveen-raja-p-641a18207)
 
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
