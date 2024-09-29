@@ -11,7 +11,7 @@ Former Implementation Analyst @ Jidoka Technologies
 <br /> <!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]()--> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/praveen-raja-p-641a18207)
 
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+<!-- ⚡ Fun fact: I know Japanese. -->
   
 <!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ) -->
@@ -30,4 +30,4 @@ Former Implementation Analyst @ Jidoka Technologies
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen_Raja_0_1?theme=dark&font=Marcellus&ext=contest)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenrpw&bg_color=050505&color=ffffff&line=9c15e5&point=faf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
