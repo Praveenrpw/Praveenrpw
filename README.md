@@ -27,6 +27,6 @@ Former Implementation Analyst @ Jidoka Technologies
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenrpw&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen_Raja_0_1?theme=dark&font=Marcellus&ext=contest)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen_Raja_0_1?theme=dark&font=Marcellus&ext=contest)-->
 
 [![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenrpw&bg_color=050505&color=ffffff&line=9c15e5&point=faf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
