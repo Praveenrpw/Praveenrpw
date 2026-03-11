@@ -8,8 +8,6 @@ Former Data Manager @ Merative
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveen-raja-p-641a18207/)
 
-- 😄 Pronouns: Techie
-
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="50" height="50" src="https://img.icons8.com/external-becris-flat-becris/64/external-deep-learning-artificial-intelligence-becris-flat-becris.png" alt="external-deep-learning-artificial-intelligence-becris-flat-becris"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
